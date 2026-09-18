@@ -2,7 +2,7 @@
 
 Real-time scene classification on iPhone using Vision Transformer — with attention map visualization showing which regions of the image drove the prediction.
 
-[Read the blog post →](https://www.preeti-chauhan.com/Smart-Scene-Classifier/)
+[Read the blog post →](https://www.preeti-chauhan.com/blog/2026/Smart-Scene-Classifier/)
 
 ---
 
